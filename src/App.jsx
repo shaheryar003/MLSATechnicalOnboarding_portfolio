@@ -50,6 +50,5 @@ const App = () => {
     </div>
   );
 };
-
+<Education />;
 export default App;
-<Education />
