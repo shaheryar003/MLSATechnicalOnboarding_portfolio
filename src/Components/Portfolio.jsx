@@ -31,28 +31,34 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "FAITH KNOWLEDGE NETWOKR 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to create a beginner friendly mobile app to help muslims clear their doubts.",
+    url: "https://github.com/shaheryar003",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Flutter Ticket App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created a dynamic desing for ticketing system.",
+    url: "https://github.com/shaheryar003",
   },
   {
-    title: "My Resume Site",
+    title: "AI FLEX, DALL E ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a text to image maker.",
+    url: "https://github.com/shaheryar003/Flutter---AI-FLEX----Text-to-Image-Generator-using-Open-AI-API",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Heart Rate Monitor",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Calculate heart rate using Mobile",
+    url: "https://github.com/shaheryar003/heart_rate_monitor_flutter",
+  },
+  {
+    title: "Qr Code Genertor",
+    description:
+      "Create Qr Codes on the fly",
+    url: "https://github.com/shaheryar003/qr_code_gen-scan_Flutter",
   },
 ];
 
